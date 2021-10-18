@@ -12,7 +12,7 @@ import json
 soc = socket.socket()
 soc.settimeout(10)
 
-username = "Pichi"  # Edit this to your username, mind the quotes
+username = "thesnoppy"  # Edit this to your username, mind the quotes
 
 enableLEDNotification = False # Edit this to enable or disable LED notification (True/False)
 ledaccepted = "fritz4040:amber:info" # Edit this to your first LED name, leave as is if you disabled led notifications above.
